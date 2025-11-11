@@ -1,6 +1,6 @@
 # clima
 
-A new Flutter project.
+this is a weather application, where at starting show the current location temperature and weater and after that you also check the desired weather of the desired location.
 
 ## Getting Started
 
